@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'danielee.prd@gmail.com',
+    email: 'danielee.solution@gmail.com',
     phone: '',
     address: ' Brooklyn, New York, United States ',
     github: 'https://github.com/code-n-cool',
